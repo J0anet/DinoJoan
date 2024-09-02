@@ -9,6 +9,8 @@
 
 ¡Ayuda al dinosaurio a sobrevivir a la lluvia de meteoritos! Esquiva las rocas y, si te atreves, dispárales para despejar el camino.
 
+![Captura desde 2024-09-02 21-02-10](https://github.com/user-attachments/assets/e6eeee3b-72b8-4f39-8b25-12d9dc276e00)
+
 ## Cómo jugar
 * **Objetivo:** Guía al dinosaurio para que evite los meteoritos.
 * **Controles:**
