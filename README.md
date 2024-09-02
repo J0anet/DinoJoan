@@ -1,5 +1,6 @@
 ### Capturas de pantalla
-[]
+
+![dino-photo](https://github.com/user-attachments/assets/dffb069f-b594-44c1-a95a-71b89ac944b3)
 
 
 # Salva al Dino
